@@ -5,7 +5,7 @@ BOLIDUM Théo
 Tout d’abord, commençons par les couleurs que je souhaite utiliser. 
 
 **Couleur 1** : 00FFF9
-![Screenshot_110](C:\Users\theob\Desktop\Cours\Cours\Atelier 1\CCI-SIO21-Portfolio\images\Screenshot_110.png)
+![Screenshot_110.png](./images/Screenshot_110.png)
 
  **Couleur 2** : 00FF86
 ![Screenshot_109](C:\Users\theob\Desktop\Cours\Cours\Atelier 1\CCI-SIO21-Portfolio\images\Screenshot_109.png)
