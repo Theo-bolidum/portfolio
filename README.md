@@ -16,7 +16,7 @@ Tout d’abord, commençons par les couleurs que je souhaite utiliser.
 
 
 Ensuite, j'ai pensé à utiliser ce logo. Il faudrait que je change les couleurs afin d'adapter à mes couleurs du portfolio (Vert, turquoise, blanc)
-<img src="../images/images(2).png">
+![images(2)](C:\Users\theob\Desktop\Cours\Cours\Atelier 1\CCI-SIO21-Portfolio\images\images(2).png)
 
 
 
