@@ -1,0 +1,67 @@
+h1 {
+    color:aqua;
+    border-radius:10px hsl(170, 98%, 49%)
+}
+p {
+float:left;
+vertical-align:text-top;
+padding-bottom:100px ;
+
+}
+
+#imgGrand {
+    background: hsl(170, 98%, 49%);
+    font-size: 3rem;
+    cursor: pointer;
+    padding: 0.7rem;
+    width: 150px;
+    height: 170px;
+    margin : cover;
+    object-fit: cover;
+    transition-property: transform;
+    transition-duration: 1000ms;
+    transform: scale(1);
+
+}
+#imgGrand:hover 
+{
+    transform: scale(1.15);  
+
+}
+
+.email_section {
+    background: #011c37;
+    color: #15DEA5;
+    font-size: 3rem;
+    cursor: pointer;
+    padding: 1.85rem 3rem;
+    border-radius: 10rem;
+    width: 600px;
+    margin : auto;
+
+}
+#email:not(:focus):invalid
+{
+    background-color: red;
+}
+#email:focus
+{
+background-color: green;
+}
+#email
+ {
+  background-color: white;
+}
+#imgBouge {
+    background: #011c37;
+    font-size: 3rem;
+    cursor: pointer;
+    padding: 1.85rem;
+    border-radius: 10rem;
+    width: 500px;
+    height: 500px;
+    margin : auto;
+    margin-top: 300px;
+    object-fit: cover;
+
+}
