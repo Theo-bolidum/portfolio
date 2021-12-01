@@ -27,7 +27,7 @@ Enfin, le site sera constitué comme ceci  :
 
 ![Screenshot_107.png](./images/Screenshot_107.png)
 
-![Screenshot_108.png](./images/Screenshot_108.png)
+
 
 
 De plus, le site aura un mode sombre, qui permettra aux yeux fatigués de se reposer ! 
