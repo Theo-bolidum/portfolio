@@ -15,7 +15,7 @@ Tout d’abord, commençons par les couleurs que je souhaite utiliser.
 
 
 
-Ensuite, j'ai pensé à utiliser ce logo. Il faudrait que je change les couleurs afin d'adapter à mes couleurs du portfolio (Vert, turquoise, blanc).
+Ensuite, j'ai pensé à utiliser ce logo. Il faudrait que je change les couleurs afin d'adapter à mes couleurs du portfolio (Vert, turquoise, blanc)..
 ![logos.png](./images/logos.png)
 
 J'hésite entre plusieurs police, tout dépendra du rendu du site  
