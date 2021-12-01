@@ -11,12 +11,23 @@ Tout d’abord, commençons par les couleurs que je souhaite utiliser.
 ![Screenshot_109.png](./images/Screenshot_109.png)
 
 **Couleur 3** : F0F0F0
+
 ![Screenshot_105.png](./images/Screenshot_105.png) 
 
 
 
 Ensuite, j'ai pensé à utiliser ce logo. Il faudrait que je change les couleurs afin d'adapter à mes couleurs du portfolio (Vert, turquoise, blanc)..
 ![logos.png](./images/logos.png)
+
+![Screenshot_105](./images/Screenshot_105.png)
+
+
+
+Ensuite, j'ai pensé à utiliser ce logo. Il faudrait que je change les couleurs afin d'adapter à mes couleurs du portfolio (Vert, turquoise, blanc)
+![images(2).png](./images(2)/images(2).png)
+
+
+
 
 J'hésite entre plusieurs police, tout dépendra du rendu du site  
 
@@ -26,6 +37,9 @@ J'hésite entre plusieurs police, tout dépendra du rendu du site
 Enfin, le site sera constitué comme ceci  : 
 
 ![Screenshot_107.png](./images/Screenshot_107.png)
+
+![Screenshot_108.png](./images/Screenshot_108.png)
+
 
 De plus, le site aura un mode sombre, qui permettra aux yeux fatigués de se reposer ! 
 
