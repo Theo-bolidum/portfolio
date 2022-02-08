@@ -1,0 +1,185 @@
+/* Import des polices */
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Fira+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@font-face {
+    font-family: 'Hello Bride';
+    src: url(../fonts/Hello\ Bride\ Script.ttf);
+}
+/* Style CSS sur ma page */
+*{
+    padding:0;
+    margin:0;
+    scroll-behavior: smooth;
+}
+body {
+    background-image:url("../images/Fond1.jpg");
+    padding:0;
+    margin:0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#f0f0f0;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: larger;
+    font-weight: 550;
+}
+.centrage h1{
+    padding-top: 50px;
+    letter-spacing: 5px;
+    font-family: 'Hello Bride';
+    font-size:70px;
+}
+.centrage h2{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+#Logo{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 140px;
+    height: 140px;
+}
+.conteneur{
+    display: flex;
+    justify-content:center;
+    position: relative;
+}
+#menu {
+    width: 100%;
+    background-color: #00fff9;
+    margin-top: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#menu a{
+    margin:0 50px ;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 200;
+    font-size: 30px;
+    padding: 25px 0;
+    text-align: center;
+    display: block;
+    letter-spacing: 2px;
+    color: #161e6d;
+}
+#menu a:active, #menu a:hover, #menu a:focus {
+    color: #161e6d;
+}
+.menuitems:hover{
+    border-bottom: #00FF86 2.5px solid;
+}
+.paragraphe{
+    padding: 50px 20% 0 20%;
+    text-align: justify;
+}
+#Maphoto{
+    width:600px;
+    height:600px;
+}
+#konixlink{
+    color: #f0f0f0;
+    text-decoration: none;
+    transition-duration: 0.25s;
+    transition-property: all;
+}
+#konixlink:hover{
+    color: #f0f0f0;
+    border-bottom: #00FF86 1px solid;
+}
+h3{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    margin: 75px 0 25px 0;
+    transition-duration: 1s;
+    transition-property: all;
+}
+.underlign{
+    border-bottom: #00FF86 2.5px solid;
+    text-shadow: #00FF86 2px 5px 5px;
+    font-weight: 500;
+}
+.section {
+    height: 100vh;
+}
+.imgcentrer{
+    width:100%;
+    text-align: center;
+}
+.illustrations{
+    border-radius: 25px;
+    width: 720px;
+    height:400px;
+}
+.imgcompetences{
+    width:150px;
+    height: auto;
+    margin-right: 75px;
+    transition-duration: 1s;
+    margin-left: 50px;
+}
+.imgcompetences:hover{
+    transform: scale(1.1);
+}
+#cisco{
+    margin-left: 50px;
+}
+.paragraphe ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.paragraphe li{
+    margin-right: 50px;
+    list-style: none;
+    font-weight: 700;
+    font-style: italic;
+    text-shadow: #000000 3px 6px 6px;
+}
+#languages{
+    font-size: 20px;
+}
+
+#cisco{
+    height:150px;
+    line-height: 100px;
+}
+#skills{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.parcours{
+    text-align: center;
+}
+.parcours ul li img{
+    text-align: center;
+}
+.parcours li{
+    width:1024px;
+    margin-top: 5px;
+}
+.date {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    transition-property: none;
+}
+.imgformations{
+    width:200px;
+    height: 125px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top:50px;
+    transition-duration: 1s;
+    box-shadow: #1c2a50 10px 15px 60px;
+    border-radius: 20px;
+}
+.imgformations:hover{
+    transform:scale(1.08);
+}
