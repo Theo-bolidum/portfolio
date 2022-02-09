@@ -1,0 +1,8 @@
+@media screen and (max-width:1280px) {
+    body {
+        min-width: none;
+    }
+    .paragraphe ul {
+        flex-wrap: wrap;
+    }
+}
