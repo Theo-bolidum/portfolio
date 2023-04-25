@@ -277,3 +277,79 @@ footer {
     bottom: 0;
     right: 0;
 }
+
+#Epreuves {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#Epreuves .epreuve {
+    max-width: 1200px;
+    margin-top: 60px;
+}
+
+#Epreuves .epreuve:not(:last-child) {
+    margin-top: 120px;
+}
+
+#Epreuves .epreuve {
+    font-size: 23px;
+    text-align: justify;
+}
+
+#Epreuves .epreuve .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+#Epreuves .highlight {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00FF86;
+}
+
+#Epreuves .link-btn {
+    flex: 1;
+    text-decoration: none;
+    color: inherit;
+    /* Create a button */
+    display: inline-block;
+    border-radius: 4px;
+    border: none;
+    background-color: #1c2a50;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#Epreuves .link-btn:hover {
+    background-color: #00FF86;
+    color: #1c2a50;
+    transform: scale(1.1);
+}
+
+#Epreuves .epreuve .card {
+    margin-top: 50px;
+}
+
+#Epreuves .links {
+    margin: 20px 0;
+}
+
+#Epreuves .epreuve .card .title {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#Epreuves .epreuve .card .context {
+    font-size: 23px;
+}
